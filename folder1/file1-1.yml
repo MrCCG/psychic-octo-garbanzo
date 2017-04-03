@@ -1,0 +1,11 @@
+# Example configuration.yaml entry
+sensor:
+  - platform: darksky
+    api_key: YOUR_API_KEY
+    monitored_conditions:
+      - summary
+      - icon
+      - nearest_storm_distance
+
+I am making changes!!!
+# upload
